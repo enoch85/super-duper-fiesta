@@ -1,3 +1,3 @@
-# super-duper-fiesta
+# Hello world
 
 Hello world
